@@ -6,12 +6,11 @@ I'm a Full Stack Developer and Penetration Tester with a passion for coding and 
 
 I'm proficient in a variety of programming languages and their respective frameworks including:
 
-- **JavaScript (JS)**: Node.js, Express.js, React.js
+- **JavaScript (JS)**: Node.js, Bun, Express.js, React.js
 - **Python**: Django, Flask
-- **Rust**: Rocket, Actix
 - **Ruby**: Ruby on Rails
 - **C/C++**: Boost, Qt
-- **Go**: Revel, Echo
+- **Lua**
 
 I'm a Linux user, which empowers me with a great deal of flexibility and control over my development environment.
 
